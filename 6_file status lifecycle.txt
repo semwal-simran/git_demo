@@ -18,3 +18,4 @@ when we use git add --- unmodified phase... staging area
 
 changes to be commited is staging area
 changes not staged is modified area
+after commit - umodified
