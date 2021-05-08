@@ -1,0 +1,10 @@
+"WELCOME"
+checking fo rthird commit
+
+git status - tells us whther we have any modified files or new files that need to be added
+
+then use git add --a to add all files
+ or
+git add sepecific file to add only few files
+
+then git commit
