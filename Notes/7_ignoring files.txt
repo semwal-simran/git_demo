@@ -9,3 +9,7 @@ dirname/
 git add . is ismilar to git add --a
 
 //blank folders are ignored by git as default...won't notify as untracked
+
+
+ignore only outer folder named dir-use-->
+/dirname/
