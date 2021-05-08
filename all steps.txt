@@ -6,6 +6,8 @@ needs to be run only once
 
 git status - tells us whether we have any modified files or new files that need to be added
 
+//moving files to staging area
+
 then use git add --a to add all files
  or
 git add sepecific file to add only few files

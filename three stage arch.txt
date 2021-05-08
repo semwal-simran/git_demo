@@ -6,7 +6,7 @@ git init... begin
 
 git status
 
-brach- by dfault master
+branch- by default master
 
 git add --a
 //all files moved to staging area
