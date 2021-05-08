@@ -1,0 +1,9 @@
+create a .gitignore  named files and place the names of files to be ingored in that
+
+ignoring any .log file--
+*.log
+
+ignoring directory/folder--
+dirname/
+
+6mins
