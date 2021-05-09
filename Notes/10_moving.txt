@@ -1,0 +1,2 @@
+if we rename a file.. then for git it is deleted and a new one is created 
+
