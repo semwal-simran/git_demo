@@ -1,0 +1,13 @@
+do as follows--
+
+modify a previous file..
+git status
+git add .
+
+create a new file 
+git status
+
+now...
+one will be in mmodified area (previous)
+
+another will be in untracked area(new)
