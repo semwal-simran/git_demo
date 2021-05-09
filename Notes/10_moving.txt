@@ -1,2 +1,9 @@
 if we rename a file.. then for git it is deleted and a new one is created 
 
+but when we add it to staging area it then clearly shows that the file was renamed
+
+git rm were.txt
+
+if we do m anually then we have to use git add too 
+
+this command removes and stages
