@@ -1,6 +1,10 @@
 error.log
 dir/
 
+Done10/
+
+demoapp/
+
 *.log
 
 ignore.txt
