@@ -1,0 +1,6 @@
+COMMAND TO UNSTAGE
+
+git restore --staged vim1.txt
+
+COMMAND TO UNMODIFY
+

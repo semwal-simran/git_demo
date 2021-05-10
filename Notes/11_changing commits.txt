@@ -42,3 +42,5 @@ this is done to merge a commit with another
 text editor opens -- edit the commit message and close.. all done
 
 vim editor press i to start writing then press : write wq to exit
+
+git log to view again 
