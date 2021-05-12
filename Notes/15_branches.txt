@@ -1,0 +1,14 @@
+let's assume we have a project 
+creating a website
+
+one person good in html and css
+other in backend
+
+initial commit-s1
+second-s2
+third-s3
+
+
+example one wants to make some changes...
+
+make a branch and work parallely
