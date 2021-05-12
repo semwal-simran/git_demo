@@ -11,4 +11,18 @@ third-s3
 
 example one wants to make some changes...
 
-make a branch and work parallely
+make a branch and work parallely..
+
+merge it to original one
+
+COMMAND 
+
+$git checkout -b branch name
+
+""this command creates a brach as well as takes us to it"
+
+$git checkout master
+""move back to original one"
+
+$git branch
+"lists branches"
