@@ -26,3 +26,5 @@ $git checkout master
 
 $git branch
 "lists branches"
+
+NOTE-CHANGES MADE IN ANY BRANCH ARE SPECIFIC TO THEMSELVES ONLY...
