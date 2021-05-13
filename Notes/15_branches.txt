@@ -38,10 +38,9 @@ STEP2...GIT MERGE NAME_OF_BRANCH
 MERGE CONFLICT ARISES WHEN WE MAKE CHANGES TO THE SAME THING IN BOTH BRANCHES...
 
 WE CAN EASILY RESOLVE THEM
-=======
+
 $git checkout master
 ""move back to original one"
 
 $git branch
 "lists branches"
->>>>>>> dev
