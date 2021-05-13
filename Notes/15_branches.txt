@@ -21,6 +21,7 @@ $git checkout -b branch name
 
 ""this command creates a brach as well as takes us to it"
 
+<<<<<<< HEAD
 $git checkout master/any other branch name
 ""move back to original one... to mentioned branch name"
 
@@ -37,3 +38,10 @@ STEP2...GIT MERGE NAME_OF_BRANCH
 MERGE CONFLICT ARISES WHEN WE MAKE CHANGES TO THE SAME THING IN BOTH BRANCHES...
 
 WE CAN EASILY RESOLVE THEM
+=======
+$git checkout master
+""move back to original one"
+
+$git branch
+"lists branches"
+>>>>>>> dev
