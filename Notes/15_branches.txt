@@ -21,8 +21,8 @@ $git checkout -b branch name
 
 ""this command creates a brach as well as takes us to it"
 
-$git checkout master
-""move back to original one"
+$git checkout master/any other branch name
+""move back to original one... to mentioned branch name"
 
 $git branch
 "lists branches"
